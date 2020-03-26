@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/danielling85/ck88vv2n6242d1ikb79w6vi7m',
+    style: 'mapbox://styles/danielling85/ck88vv2n6242d1ikb79w6vi7m?fresh=true',
     accessToken: 'pk.eyJ1IjoiZGFuaWVsbGluZzg1IiwiYSI6ImNrNWd0eGpmYTBhbTAzZnFyb2VzZzhseXEifQ.Oxe-H95ubG1Rv2SsLgOlcw',
     showMarkers: false,
     theme: 'light',
