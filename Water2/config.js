@@ -12,7 +12,7 @@ var config = {
         {
             id: 'Chapter1',
             title: 'an overview',
-
+            image: 'https://github.com/danielling4/danielling4.github.io/blob/master/Water2/Number%20of%20Water%20Events%20by%20Month.png,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: [-8.62932, 53.82374],
