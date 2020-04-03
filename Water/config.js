@@ -2,7 +2,7 @@ var config = {
     style: 'mapbox://styles/danielling85/ck88vv2n6242d1ikb79w6vi7m',
     accessToken: 'pk.eyJ1IjoiZGFuaWVsbGluZzg1IiwiYSI6ImNrNWd0eGpmYTBhbTAzZnFyb2VzZzhseXEifQ.Oxe-H95ubG1Rv2SsLgOlcw',
     showMarkers: false,
-    theme: 'dark',
+    theme: 'light',
     alignment: 'left',
     title: 'IRISH WATER SUPPLY EVENTS',
     subtitle: 'This is a story about Irish Water Supply Events',
