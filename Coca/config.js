@@ -91,17 +91,97 @@ bearing: 0.00
             onChapterExit: []
         },
         {
-            id: 'fourth-chapter',
-            alignment: 'fully',
+            id: 'reached-honduras',
+            alignment: 'left',
             hidden: false,
-            title: 'Third Title',
+            title: 'Reaching Honduras',
             image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'Upon reaching the ports of Honduras, the value of a kilo of Cocaine powder has now increased to $6,000.',
             location: {
-                center: [-58.54195, -34.71600],
-                zoom: 4,
-                pitch: 0,
-                bearing: 0
+                center: [-87.92215, 15.85876],
+zoom: 11.84,
+pitch: 25.50,
+bearing: -48.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'reached-Southern-Mexico',
+            alignment: 'left',
+            hidden: false,
+            title: 'Into Southern Mexico',
+            image: './path/to/image/source.png',
+            description: 'Into Southern Mexico and only one more border to cross. The value has now reached $10,000 per kilo.',
+            location: {
+                center: [-95.77696, 18.29999],
+                zoom: 12.25,
+                pitch: 25.50,
+                bearing: -48.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'Mexican-Border',
+            alignment: 'left',
+            hidden: false,
+            title: 'Crossing the Mexican Border',
+            image: './path/to/image/source.png',
+            description: 'Into Southern Mexico and only one more border to cross. The value has now reached $10,000 per kilo.',
+            location: {
+                center: [-107.139, 30.99057],
+                zoom: 12.25,
+                pitch: 25.50,
+                bearing: -48.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'Dallas',
+            alignment: 'left',
+            hidden: false,
+            title: 'Reached the USA',
+            image: './path/to/image/source.png',
+            description: 'Dallas becomes a hub for the wholesalers with product distributed across North America from here..',
+            location: {
+                center: [-97.3675, 32.69711],
+                zoom: 12.25,
+                pitch: 25.50,
+                bearing: -48.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'New-York',
+            alignment: 'left',
+            hidden: false,
+            title: 'Party Time in New York',
+            image: './path/to/image/source.png',
+            description: 'After a long journey, the Cocaine power is now sold at $80,000 per kilo or $120 per gram.',
+            location: {
+                center: [-74.0026, 40.74912],
+                zoom: 12.25,
+                pitch: 25.50,
+                bearing: -48.80
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
